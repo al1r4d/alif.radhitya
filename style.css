@@ -1,0 +1,33 @@
+body {
+	background-color: #111;
+}
+.container {
+  padding: 1px;
+  max-width: 500px;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #eee;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+
+a, p, li {
+    color: #ccc;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+dd {	
+	color: #ccc;
+	    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+dt {	
+	color: #ccc;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+	font-weight: bold;
+}
