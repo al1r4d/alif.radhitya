@@ -1,7 +1,14 @@
 body {
-	background-color: #111;
+    background-color: #303030;
+}
+
+.main {
+        width: 95%;
+    margin: 0 auto;
+
 }
 .container {
+    background-color: #d0d0d0;
   padding: 1px;
   max-width: 500px;
   margin: 0 auto;
@@ -10,26 +17,26 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-    color: #eee;
+    color: #000;
     font-family: 'Roboto', sans-serif;
     font-weight: 800;
 }
 
 details {
-    color: #fff;
+    color: #000;
 }
 a, p, li {
-    color: #ccc;
+    color: #000;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
 dd {	
-	color: #ccc;
+	color: #000;
 	    font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
 dt {	
-	color: #ccc;
+	color: #000;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 	font-weight: bold;
