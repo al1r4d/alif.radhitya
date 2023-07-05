@@ -1,5 +1,6 @@
 body {
     background-color: #303030;
+    font-family: 'Roboto', sans-serif;
 }
 
 .main {
@@ -14,6 +15,7 @@ body {
   margin: 0 auto;
   flex-direction: row;
   justify-content: space-between;
+  box-shadow: 0 0 0 1.5px White inset;
 }
 
 h1, h2, h3, h4, h5 {
